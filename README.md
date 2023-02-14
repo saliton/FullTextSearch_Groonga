@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Soliton-Analytics-Team/FullTextSearch_Groonga/blob/main/FullTextSearch_Groonga.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saliton/FullTextSearch_Groonga/blob/main/FullTextSearch_Groonga.ipynb)
 
 # Colabで全文検索（その3：Groonga編）
 
